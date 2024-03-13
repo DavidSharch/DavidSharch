@@ -1,4 +1,7 @@
-我打算写一些自己感兴趣的代码，具体要实现以下内容：
-- IM即时聊天。各种软件都离不开IM，各种私信、弹幕都是IM。
-- feed流。社交媒体一定需要一个feed流，参考微博和B站的动态。
-- 过程中涉及到的分布式id生成器，网关等其他内容。
+我想实现两个工具，使用golang实现（也许会使用rust？）
+- 分布式id生成器，基于mysql号段实现
+- 分布式kv缓存，支持持久化、支持redis协议
+---
+I want to implement two tools using Golang (maybe Rust as well?).
+- Distributed ID generator, implemented based on MySQL segment
+- Distributed key-value cache, supporting persistence
