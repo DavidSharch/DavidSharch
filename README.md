@@ -6,7 +6,7 @@
 - 🔧  I know how to say HelloWorld in java,python and golang  :)
 - 📫  How to reach me: 
     -  ✨ huangbo6076@gmail.com
-    -  ✨ huangbo@emaill.com
+    -  ✨ huangbo@email.com
 
 *It is better to make a wrong decision than to make no decision.* 
 
