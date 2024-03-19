@@ -9,9 +9,10 @@
     -  ✨ huangbo@emaill.com
 
 *It is better to make a wrong decision than to make no decision.* 
-*and yes,huangbo is my chinese name* 
 
-![](https://komarev.com/ghpvc/?username=davidsharch&style=for-the-badge)
+*And yes,huangbo is my chinese name* 
+
+
 
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=davidsharch&count_private=true&show_icons=true&theme=vue&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsharch&layout=compact&theme=vue&hide=html,css,kotlin,dockerfile,perl,makefile)](https://github.com/anuraghazra/github-readme-stats)
