@@ -4,13 +4,11 @@
 - 🔭  I’m writing python spiders for living
 - 🌱  I’m writing kv cache,distributed id generator for fun
 - 🔧  I know how to say HelloWorld in java,python and golang  :)
-- 📫  How to reach me: 
-    -  ✨ huangbo6076@gmail.com
-    -  ✨ huangbo@email.com
+- 📫  How to reach me(base64): 
+    -  ✨ aHVhbmdibzYwNzZAZ21haWwuY29t
+    -  ✨ aHVhbmdib0BlbWFpbC5jb20=
 
 *It is better to make a wrong decision than to make no decision.* 
-
-*And yes,huangbo is my chinese name* 
 
 
 
